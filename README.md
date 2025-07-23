@@ -20,3 +20,5 @@ Learn how to consume APIs and process JSON data.
 Enhance your problem-solving and coding abilities in real-world scenarios.
 
 Be able to apply this knowledge in future projects or job interview
+
+OUTPUT:<img width="1920" height="1020" alt="Image" src="https://github.com/user-attachments/assets/e91cc2a9-aac6-43cf-9ccd-5444363d5a49" />
